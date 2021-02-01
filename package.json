@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "description": "This action checks whether there are any dead links in the documentation of your repository. Based on check-html-links from Modern Web.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [
     "netlify",
     "netlify-plugin",
     "check-html-links"
   ],
-  "author": "Modern Web",
-  "license": "ISC",
+  "author": "Modern Web <hello@modern-web.dev> (https://modern-web.dev/)",
+  "license": "MIT",
   "dependencies": {
-    "check-html-links": "^0.1.2"
+    "chalk": "^4.1.0",
+    "check-html-links": "^0.1.2",
+    "path": "^0.12.7"
   }
 }

@@ -1,6 +1,6 @@
 name: netlify-plugin-check-html-links
 inputs:
-  - name: doc-folder
+  - name: docfolder
     description: location of the documentation folder
     default: "dist"
     required: false
