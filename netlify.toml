@@ -3,4 +3,3 @@ package = "..\\netlify-plugin-check-html-links\\"
 
   [plugins.inputs]
   docfolder = dist
-  docplop = dist2
