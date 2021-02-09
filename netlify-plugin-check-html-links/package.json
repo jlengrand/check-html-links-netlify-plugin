@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",
-    "check-html-links": "^0.1.2",
+    "check-html-links": "^0.2.0",
     "path": "^0.12.7"
   }
 }
